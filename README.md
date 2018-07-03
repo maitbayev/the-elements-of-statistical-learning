@@ -21,6 +21,22 @@
    * [3.4 Shrinkage Methods](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-03/3.4-shrinkage-methods.ipynb)
    * [3.4.1 Ridge Regression](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-03/3.4.1-ridge-regression.ipynb)
    * [3.4.2 The Lasso](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-03/3.4.2-the-lasso.ipynb)
-   * [3.4.3 Discussion: Subset Selection, Ridge Regression and the Lasso](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-03/3.4.4-discussion-subset-selection-ridge-regression-and-the-lasso.ipynb) **TODO**
+   * **TODO**: [3.4.3 Discussion: Subset Selection, Ridge Regression and the Lasso](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-03/3.4.4-discussion-subset-selection-ridge-regression-and-the-lasso.ipynb) 
    * [3.4.4 Least Angle Regression](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-03/3.4.4-least-angle-regression.ipynb)
    * [3.5 Methods Using Derived Input Directions](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-03/3.5-methods-using-derived-input-directions.ipynb)
+
+- Chapter 4
+  * [4.1 Introduction](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.1-introduction.ipynb)
+  * [4.2 Linear Regression of an Indicator Matrix](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.2-linear-regression-of-an-indicator-matrix.ipynb)
+  * [4.3 Linear Discriminant Analysis](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.3-linear-discriminant-analysis.ipynb)
+  * [4.3.1 Regularized Discriminant Analysis](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.3.1-regularized-discriminant-analysis.ipynb)
+  * [4.3.2 Computations for LDA](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.3.2-computations-for-LDA.ipynb)
+  * [4.3.3 Reduced-Rank Linear Discriminant Analysis](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.3.3-reduced-rank-linear-discriminant-analysis.ipynb)
+  * [4.4 Logistic Regression](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.4-logistic-regression.ipynb)
+  * [4.4.1 Fitting Logistic Regression Models](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.4.1-fitting-logistic-regression-models.ipynb)
+  * [4.4.2 Example: South African Heart Disease](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.4.2-example-south-african-heart-disease.ipynb)
+  * [4.4.3 Quadratic Approximations and Inference](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.4.3-quadratic-approximations-and-inference.ipynb)
+  * [4.4.4 L1 Regularized Logistic Regression](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-04/4.4.4-L-1-regularized-logistic-regression.ipynb)
+  
+- Chapter 11
+  * **WIP**: [11.7 Example: ZIP Code Data](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-11/11.7-example-zip-code-data.ipynb)
