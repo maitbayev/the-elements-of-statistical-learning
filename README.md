@@ -1,4 +1,6 @@
-# the-elements-of-statistical-learning
+# Jupyter notebooks for the book "The Elements of Statistical Learning" by Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie
+
+This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook.
 
 #### Table of Contents
 - Chapter 2
