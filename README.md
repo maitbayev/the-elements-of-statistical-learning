@@ -2,6 +2,14 @@
 
 This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook. 
 
+#### Requirements
+
+- pandas
+- numpy
+- matplotlib
+- scipy
+- tensorflow 2.0.0-beta1 (temporarily)
+
 #### Table of Contents
 - Chapter 2
    * [2.3 Least Squares and Nearest Neighbors](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-02/2.3-least-squares-and-nearest-neighbors.ipynb)
