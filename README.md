@@ -4,6 +4,7 @@ This repository contains Jupyter notebooks implementing the algorithms found in 
 
 #### Requirements
 
+- jupyter
 - pandas
 - numpy
 - matplotlib
