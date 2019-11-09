@@ -9,7 +9,7 @@ This repository contains Jupyter notebooks implementing the algorithms found in 
 - numpy
 - matplotlib
 - scipy
-- tensorflow 2.0.0-beta1 - temporarily and it is only used in Chapter 11.
+- tensorflow 2.0.0-beta1 - temporarily until I have a lot of free time to implement them from scratch and it is used only in Chapter 11.
 
 #### Table of Contents
 - Chapter 2
