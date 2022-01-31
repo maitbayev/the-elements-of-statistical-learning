@@ -1,6 +1,6 @@
 # Jupyter notebooks for the book "The Elements of Statistical Learning".
 
-This repository contains Jupyter notebooks implementing the algorithms found in the book and summary of the textbook. 
+This repository contains Jupyter notebooks implementing the algorithms found in the book, proofs and summary of the textbook. 
 
 #### Requirements
 
