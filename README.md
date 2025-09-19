@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks implementing the algorithms found in the book, proofs and summary of the textbook. 
 
-Checkout my blog [https://maitbayev.github.io/](maitbayev.github.io) as well. 
+Checkout my blog [maitbayev.github.io](https://maitbayev.github.io/) as well. 
 
 #### Requirements
 
