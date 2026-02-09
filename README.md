@@ -14,6 +14,9 @@ Checkout my blog [maitbayev.github.io](https://maitbayev.github.io/) as well.
 - tensorflow 2 - temporarily until I have a lot of free time to implement them from scratch and it is used only in Chapter 11.
 
 #### Table of Contents
+
+For a more organized overview, please refer to this page [maitbayev.github.io/esl](https://maitbayev.github.io/esl/)
+
 - Chapter 2
    * [2.3 Least Squares and Nearest Neighbors](https://github.com/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-02/2.3-least-squares-and-nearest-neighbors.ipynb)
 ([nbviewer](https://nbviewer.jupyter.org/github/maitbayev/the-elements-of-statistical-learning/blob/master/chapter-02/2.3-least-squares-and-nearest-neighbors.ipynb))
